@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Item Details</title>
+</head>
+<body>
+
+    <h1>THE TIMELESS TREASURE ANTIQUE SHOP</h1>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="details.html">Item Details</a> |
+        <a href="contact.html">Contact Us</a>
+    </nav>
+
+    <hr>
+
+    <h2>Old Coin Collection</h2>
+
+    <h3>History of The Item</h3>
+    <p>This collection contains coins from the colonial period.</p>
+
+    <h3>Material & Size</h3>
+    <p>Made of copper and silver.</p>
+
+    <h3>Condition</h3>
+    <p>Well preserved and authentic.</p>
+
+    <button>Add to Cart</button>
+    <button>View Details</button>
+
+    <footer>
+        <p>"Preserving History Through Antiques"</p>
+        <p>©2026 Timeless Antique House</p>
+    </footer>
+
+</body>
+</html>
